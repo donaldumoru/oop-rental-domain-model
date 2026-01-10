@@ -9,7 +9,7 @@ The goal of the project is to practice OOP design decisions and NOT to build a c
 
 ### Out of Scope
 
-The focus of this project is on domain modeling and object-oriented design and NOT on building a complete application. As a result, the following aspects are out of scope:
+Again, the focus of this project is on domain modeling and object-oriented design and NOT on building a complete application. As a result, the following aspects are out of scope:
 
 - User interface
 - Data persistence
